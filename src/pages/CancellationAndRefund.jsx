@@ -37,7 +37,7 @@ const CancellationAndRefundPolicy = () => {
             <a href="mailto:justforfun54992@gmail.com" className="text-primary text-decoration-underline">
               justforfun54992@gmail.com
             </a>{" "}
-            or call us at +91 94249 77848. Provide your booking reference number and the reason for cancellation.
+            or call us at +91 6303092897. Provide your booking reference number and the reason for cancellation.
           </p>
 
           <h2 className="fw-semibold text-primary mt-4">4. Force Majeure</h2>
