@@ -51,7 +51,7 @@ const CancellationAndRefundPolicy = () => {
             For any questions or concerns regarding this policy, please contact us:
           </p>
           <p>Email: <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">automotives23@gmail.com</a></p>
-          <p>Phone: +91 94249 77848</p>
+          <p>Phone: +91 6303092897</p>
         </div>
       </div>
     </div>
