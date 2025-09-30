@@ -34,8 +34,8 @@ const CancellationAndRefundPolicy = () => {
           <h2 className="fw-semibold text-primary mt-4">3. How to Cancel</h2>
           <p>
             To cancel your booking, please contact our customer support team at{" "}
-            <a href="mailto:justforfun54992@gmail.com" className="text-primary text-decoration-underline">
-              justforfun54992@gmail.com
+            <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">
+              automotives23@gmail.com
             </a>{" "}
             or call us at +91 6303092897. Provide your booking reference number and the reason for cancellation.
           </p>
@@ -49,7 +49,7 @@ const CancellationAndRefundPolicy = () => {
           <p>
             For any questions or concerns regarding our Cancellation & Refund Policy, please reach out to us at:
           </p>
-          <p>Email: <a href="mailto:justforfun54992@gmail.com" className="text-primary text-decoration-underline">justforfun54992@gmail.com</a></p>
+          <p>Email: <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">automotives23@gmail.com</a></p>
           <p>Phone: +91 94249 77848</p>
         </div>
       </div>

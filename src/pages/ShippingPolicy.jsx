@@ -45,8 +45,8 @@ const ShippingPolicy = () => {
           <h2 className="fw-semibold text-primary mt-4">5. Contact Us</h2>
           <p>
             For questions or concerns about shipping and delivery, please contact us at:{" "}
-            <a href="mailto:justforfun54992@gmail.com" className="text-primary text-decoration-underline">
-              justforfun54992@gmail.com
+            <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">
+              automotives23@gmail.com
             </a>
           </p>
         </div>

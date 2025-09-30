@@ -60,8 +60,8 @@ const TermsAndConditions = () => {
           <h2 className="fw-semibold text-primary mt-4">9. Contact Us</h2>
           <p>
             If you have any questions or concerns about these Terms, please contact us at:{" "}
-            <a href="mailto:justforfun54992@gmail.com" className="text-primary text-decoration-underline">
-              justforfun54992@gmail.com
+            <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">
+              automotives23@gmail.com
             </a>
           </p>
         </div>

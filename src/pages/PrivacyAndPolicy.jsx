@@ -66,14 +66,14 @@ const PrivacyPolicy = () => {
           </ul>
           <p>
             Contact us:{" "}
-            <a href="mailto:justforfun54992@gmail.com" className="text-primary text-decoration-underline">
-              justforfun54992@gmail.com
+            <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">
+              automotives23@gmail.com
             </a>
           </p>
           <p>
             Or directly via Gmail:{" "}
             <a
-              href="https://mail.google.com/mail/?view=cm&to=justforfun54992@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&to=automotives23@gmail.com"
               className="text-primary text-decoration-underline"
               target="_blank"
               rel="noopener noreferrer"
