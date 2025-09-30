@@ -14,37 +14,40 @@ const ShippingPolicy = () => {
         {/* Content */}
         <div className="text-dark" style={{ lineHeight: "1.6" }}>
           <p>
-            At <strong>Self Drive Cars</strong>, we are committed to delivering your bookings smoothly and on time. This Shipping Policy outlines the terms related to vehicle delivery and pick-up services.
+            At <strong>Self Drive Cars</strong>, we are committed to ensuring your bookings are
+            delivered smoothly and on time. This Shipping Policy outlines the terms
+            regarding vehicle delivery and pick-up services.
           </p>
 
           <h2 className="fw-semibold text-primary mt-4">1. Delivery Options</h2>
           <ul className="list-disc ps-4">
-            <li>Vehicle delivery is available to your specified location within our service area.</li>
-            <li>Delivery charges, if any, will be communicated during the booking process.</li>
-            <li>Delivery times are estimates and may vary due to traffic or unforeseen delays.</li>
+            <li>Vehicles can be delivered to the location specified during booking within our service area.</li>
+            <li>Any delivery charges will be communicated at the time of booking.</li>
+            <li>Delivery times are estimated and may be affected by traffic or unforeseen circumstances.</li>
           </ul>
 
           <h2 className="fw-semibold text-primary mt-4">2. Pick-Up & Return</h2>
           <ul className="list-disc ps-4">
             <li>Vehicles must be returned to the agreed location at the end of the rental period.</li>
             <li>Late returns may incur additional charges as per company policy.</li>
-            <li>Any damage or issues must be reported immediately upon return.</li>
+            <li>Report any damage or issues immediately upon return.</li>
           </ul>
 
           <h2 className="fw-semibold text-primary mt-4">3. Shipping Restrictions</h2>
           <ul className="list-disc ps-4">
-            <li>Delivery and pick-up services are limited to our operational zones only.</li>
-            <li>We do not offer international shipping or delivery outside authorized areas.</li>
+            <li>Delivery and pick-up services are available only within our operational zones.</li>
+            <li>We do not provide international delivery or services outside authorized areas.</li>
           </ul>
 
-          <h2 className="fw-semibold text-primary mt-4">4. Responsibility</h2>
+          <h2 className="fw-semibold text-primary mt-4">4. Your Responsibility</h2>
           <p>
-            You are responsible for inspecting the vehicle upon delivery and reporting any pre-existing damage immediately. Failure to report may result in liability for damages.
+            You are responsible for inspecting the vehicle upon delivery and reporting any
+            pre-existing damage immediately. Failure to report may result in liability for damages.
           </p>
 
           <h2 className="fw-semibold text-primary mt-4">5. Contact Us</h2>
           <p>
-            For questions or concerns about shipping and delivery, please contact us at:{" "}
+            For any questions or concerns regarding delivery or pick-up, please contact us at:{" "}
             <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">
               automotives23@gmail.com
             </a>

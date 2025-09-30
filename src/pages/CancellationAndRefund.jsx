@@ -14,40 +14,41 @@ const CancellationAndRefundPolicy = () => {
         {/* Content */}
         <div className="text-dark" style={{ lineHeight: "1.6" }}>
           <p>
-            At <strong>Self Drive Cars</strong>, we aim to provide a seamless car rental experience. This Cancellation & Refund Policy outlines the terms and conditions for cancelling bookings and requesting refunds.
+            At <strong>Self Drive Cars</strong>, we strive to provide a smooth and reliable car rental experience. 
+            This Cancellation & Refund Policy explains the terms for cancelling bookings and requesting refunds.
           </p>
 
           <h2 className="fw-semibold text-primary mt-4">1. Cancellation Policy</h2>
           <ul className="list-disc ps-4">
-            <li>Bookings can be cancelled up to 24 hours before the scheduled pickup time for a full refund.</li>
+            <li>Bookings cancelled at least 24 hours before the scheduled pickup time are eligible for a full refund.</li>
             <li>Cancellations made within 24 hours of the pickup time will incur a 50% cancellation fee.</li>
-            <li>No-show or failure to pick up the vehicle without prior cancellation will result in no refund.</li>
+            <li>No-shows or failure to pick up the vehicle without prior cancellation will not be refunded.</li>
           </ul>
 
           <h2 className="fw-semibold text-primary mt-4">2. Refund Policy</h2>
           <ul className="list-disc ps-4">
             <li>Refunds will be processed to the original payment method within 7-10 business days.</li>
-            <li>In case of vehicle unavailability due to unforeseen circumstances, a full refund will be issued.</li>
-            <li>Refunds are not applicable for services rendered, including fuel charges, tolls, or fines incurred during the rental period.</li>
+            <li>If a vehicle is unavailable due to unforeseen circumstances, a full refund will be issued.</li>
+            <li>Refunds do not cover services already rendered, such as fuel charges, tolls, or fines incurred during the rental period.</li>
           </ul>
 
           <h2 className="fw-semibold text-primary mt-4">3. How to Cancel</h2>
           <p>
-            To cancel your booking, please contact our customer support team at{" "}
+            To cancel your booking, contact our customer support at{" "}
             <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">
               automotives23@gmail.com
             </a>{" "}
-            or call us at +91 6303092897. Provide your booking reference number and the reason for cancellation.
+            or call +91 6303092897. Please provide your booking reference number and reason for cancellation.
           </p>
 
           <h2 className="fw-semibold text-primary mt-4">4. Force Majeure</h2>
           <p>
-            In the event of circumstances beyond our control, such as natural disasters, strikes, or government restrictions, we reserve the right to cancel bookings without liability. In such cases, a full refund will be issued.
+            In the event of circumstances beyond our control—such as natural disasters, strikes, or government restrictions—we may cancel bookings without liability. In such cases, a full refund will be provided.
           </p>
 
           <h2 className="fw-semibold text-primary mt-4">5. Contact Us</h2>
           <p>
-            For any questions or concerns regarding our Cancellation & Refund Policy, please reach out to us at:
+            For any questions or concerns regarding this policy, please contact us:
           </p>
           <p>Email: <a href="mailto:automotives23@gmail.com" className="text-primary text-decoration-underline">automotives23@gmail.com</a></p>
           <p>Phone: +91 94249 77848</p>
