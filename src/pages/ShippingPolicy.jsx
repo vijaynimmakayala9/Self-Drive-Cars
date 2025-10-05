@@ -14,7 +14,7 @@ const ShippingPolicy = () => {
         {/* Content */}
         <div className="text-dark" style={{ lineHeight: "1.6" }}>
           <p>
-            At <strong>Self Drive Cars</strong>, we are committed to ensuring your bookings are
+            At <strong>Drive Car Rental</strong>, we are committed to ensuring your bookings are
             delivered smoothly and on time. This Shipping Policy outlines the terms
             regarding vehicle delivery and pick-up services.
           </p>

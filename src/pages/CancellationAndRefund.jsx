@@ -14,7 +14,7 @@ const CancellationAndRefundPolicy = () => {
         {/* Content */}
         <div className="text-dark" style={{ lineHeight: "1.6" }}>
           <p>
-            At <strong>Self Drive Cars</strong>, we strive to provide a smooth and reliable car rental experience. 
+            At <strong>Drive Car Rental</strong>, we strive to provide a smooth and reliable car rental experience. 
             This Cancellation & Refund Policy explains the terms for cancelling bookings and requesting refunds.
           </p>
 

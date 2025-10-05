@@ -11,7 +11,7 @@ const TermsAndConditions = () => {
         <div className="text-dark" style={{ lineHeight: "1.6" }}>
           <p>
             These Terms and Conditions (“Terms”) govern your use of the{" "}
-            <strong>Self Drive Cars</strong> application (“App”). By accessing or
+            <strong>Drive Car Rental</strong> application (“App”). By accessing or
             using the App, you agree to comply with these Terms in full.
           </p>
 
@@ -58,7 +58,7 @@ const TermsAndConditions = () => {
 
           <h2 className="fw-semibold text-primary mt-4">7. Limitation of Liability</h2>
           <p>
-            <strong>Self Drive Cars</strong> will not be liable for any indirect,
+            <strong>Drive Car Rental</strong> will not be liable for any indirect,
             incidental, or consequential damages arising from the use of the App
             or its services.
           </p>
